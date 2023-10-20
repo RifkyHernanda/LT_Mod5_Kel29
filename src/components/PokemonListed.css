@@ -1,0 +1,35 @@
+.PokemonContainer {
+    list-style: none;
+    padding: 0;
+  }
+  .PokemonList {
+    display: flex;
+    border: 1px solid #ffffff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+    border-width: 3px;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: #e95793;
+    color: #ffffff;
+  }
+  
+  .judul {
+    color: #e95793;
+  }
+  
+  .subjudul {
+    color: #ffffff;
+  }
+  
+  .pagination .btn2 {
+    margin-left: 20px;
+    background-color: #da0c81;
+  }
+  
+  .pagination .btn1 {
+    background-color: #da0c81;
+  }
+  
